@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DataUsage</string>
+    <string name="title_cellular">Cellular</string>
+    <string name="title_wifi">Wi-Fi</string>
+</resources>
